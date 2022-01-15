@@ -1,6 +1,6 @@
 ### Hola Amigos!! 👋
 
-<h1 align="center"> This is Shreyas Bulbule aka kuchiPie </h1>
+<h1 align="center"> This is Shreyas Bulbule </h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
