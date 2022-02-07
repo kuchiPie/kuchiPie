@@ -3,8 +3,8 @@
 <h1 align="center"> This is Shreyas Bulbule </h1>
 
 <p align="center">
-<img width="250px" style="display: block; margin:0 auto" src="https://user-images.githubusercontent.com/78674160/149612872-b0cadb8b-1db4-406e-a353-cadcd7744824.png"></img>
-P.S. seriosly not this cat !!
+<img width="250px" style="display: block; margin:0 auto" src="https://user-images.githubusercontent.com/78674160/149612872-b0cadb8b-1db4-406e-a353-cadcd7744824.png"></img><br>
+P.S. seriously not this cat !!
 </p>
 
 
