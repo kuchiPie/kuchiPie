@@ -10,7 +10,7 @@ P.S. seriously not this cat !!
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm a Data Science and Artificial Intelligence Engineering sophomore at IIIT Dharwad, Karnataka .\
+🎓 &nbsp;I'm a Data Science and Artificial Intelligence Engineering student at IIIT Dharwad, Karnataka .\
 🌱 &nbsp;I'm a MERN stack Web Developer with keen interest in Machine Learning, Artificial Intelligence, Data Science and Blockchain .\
 ✍️ &nbsp;I love to play cricket and football in my free time.\
 ✉️ &nbsp;Wanna recruit me? Have a cool project idea? Just shoot an email to shreyasbulbule007@gmail.com .\
